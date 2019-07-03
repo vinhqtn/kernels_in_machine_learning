@@ -7,12 +7,12 @@ There are 4 assignments:
   * Gaussian-Kernel using matrix operations
   * Parzen Window Classifier
 * Assignment 2:
- * Kernel Ridge Regression
- * Kernel pre-processing: Centering & Normalization
- * Predictions of Fingerprints
+  * Kernel Ridge Regression
+  * Kernel pre-processing: Centering & Normalization
+  * Predictions of Fingerprints
 * Assignment 3:
- * Support Vector Machines
- * Variants of Kernels
+  * Support Vector Machines
+  * Variants of Kernels
 * Assignment 4:
- * Canonical correspondance analysis (With Kernels)
+  * Canonical correspondance analysis (With Kernels)
   
